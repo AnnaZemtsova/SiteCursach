@@ -1,0 +1,36 @@
+.block{
+    position: relative;
+    width: 30%;
+    height: 300px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 3%;
+}
+.image{
+    position: relative;
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+    box-shadow: 3 3 20px black;
+    background-position: center;
+}
+.image:hover{
+    opacity: 0.3;
+}
+.block:hover .text{
+    opacity: 0.7;
+    display: block;
+}
+.text{
+   display: none;
+    height: 50px;
+    width:100%;
+    text-align: center;
+    font-size: 18pt;
+    line-height: 2em;
+    position: relative;
+    margin-top: -50px;
+    background: black;
+    color: orange;
+    opacity: 0.7;
+}

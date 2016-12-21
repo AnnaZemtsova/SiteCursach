@@ -1,0 +1,18 @@
+.inputName{
+     float: left;
+    width: 180px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left:3%;
+    font-size: 12pt;
+}
+.description{
+      margin-left:3%;
+    margin-top: 30px;
+    width: 95%; 
+    overflow: hidden; 
+    height: 40%; 
+    font-size:20;
+    line-height:1.5;
+    text-align:justify
+}

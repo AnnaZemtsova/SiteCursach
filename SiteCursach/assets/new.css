@@ -1,0 +1,13 @@
+.avatar{
+    width: 350px;
+    height: 270px;
+    float: left;
+    margin: 30px;
+    margin-left: 5%;
+}
+.ava{
+    width: 350px;
+    height: 260px;
+    background-size: cover;
+    box-shadow: 3 3 20px black;
+}

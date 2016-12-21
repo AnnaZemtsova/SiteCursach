@@ -1,0 +1,11 @@
+
+.absp{
+    display: none;
+    margin-top: 0px;
+    margin-left: 300px;
+    position: fixed;
+    width: 800px;
+    height: 60%;
+    background-color:white;
+    z-index: 90;
+}
